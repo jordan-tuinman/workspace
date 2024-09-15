@@ -2,12 +2,12 @@ inherits = "material_darker"
 
 "ui.background" = {}
 
-"ui.help" = { fg = "white", bg = "black" }
+"ui.help" = { bg = "black" }
 "ui.window" = { bg = "black" }
 "ui.cursor" = { modifiers = ["reversed"] }
 "ui.popup" = { bg = "black" }
 "ui.cursor.match" = { fg = "accent", modifiers = ["underlined"] }
-"ui.menu" = { fg = "text", bg = "bg" }
+"ui.menu" = { bg = "black" }
 "ui.menu.selected" = { modifiers = ["reversed"] }
 
 
