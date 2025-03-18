@@ -6,10 +6,10 @@ local config = wezterm.config_builder()
 config.font = wezterm.font('JetBrains Mono')
 
 -- Set theme
-config.color_scheme = 'Atom (Gogh)'
+config.color_scheme = 'catppuccin-latte'
 
--- Set the opacity to 0.90
-config.window_background_opacity = 0.90
+-- Set the opacity to 0.94
+config.window_background_opacity = 0.94
 
 -- Add key bindings
 config.keys = {
