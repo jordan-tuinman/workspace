@@ -1,0 +1,4 @@
+theme = "MaterialDarker"
+
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+

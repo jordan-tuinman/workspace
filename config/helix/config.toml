@@ -1,4 +1,4 @@
-theme = "theme"
+theme = "material_darker"
 
 [editor.cursor-shape]
 insert = "bar"
@@ -10,3 +10,5 @@ left = ["mode", "spinner", "file-name"]
 center = []
 right = ["diagnostics", "selections", "position", "file-encoding", "file-line-ending", "file-type"]
 
+[keys.normal]
+C-a = [":sh unibear add_file %{buffer_name}"]
